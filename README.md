@@ -39,7 +39,7 @@ PROBLEM DESCRIPTION AND REMEDIATION:
 
 	To start the program run
 
-	a. CD into Desktop/CS4500/projONE
+	a. Navigate to OSProj1 file
 	b. type 'make' and then press enter
 	c. run ./list_test
 	
