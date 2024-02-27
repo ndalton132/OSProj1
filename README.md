@@ -70,3 +70,8 @@ PROBLEM DESCRIPTION AND REMEDIATION:
 	The make file was very simple. Following the tutorial variables CC and Cflags were defined at the top. CC=gcc to specifify the compiler used, and CFLAGS=-I. -WALL so it will look for the header file in the current directory, and -Wall to print out any errors or warnings for the compilation of the program. list.o and list-test.o were listed so they would recompiled if any changes were made. After that just write the normal gcc commands with the variables in place of the regular commands.
 
 	Challenges: There werent really any challenges for this part. Starting at the simplest makefile, then adding the small variables up top were very understandable.
+
+ Resources
+ ======================
+https://www.learn-c.org/en/Linked_lists
+https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/
